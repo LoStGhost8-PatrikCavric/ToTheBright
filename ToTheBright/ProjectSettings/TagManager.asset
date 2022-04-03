@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Key
+  - Fragment
+  - Lock
+  - Ground
+  - LastNPC
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 884318333
+    locked: 0
+  - name: Water Color
+    uniqueID: 2773397141
+    locked: 0
+  - name: Water
+    uniqueID: 3892419855
+    locked: 0
+  - name: Platform
+    uniqueID: 223114905
+    locked: 0
+  - name: NPC
+    uniqueID: 2026832617
+    locked: 0
+  - name: Player
+    uniqueID: 352953467
+    locked: 0
